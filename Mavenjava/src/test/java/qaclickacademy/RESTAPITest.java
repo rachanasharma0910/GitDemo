@@ -7,6 +7,11 @@ public class RESTAPITest {
 	public void NativeAppAndroid()
 	{
 		System.out.println("NativeAppAndroid");
+		System.out.println("github");
+		System.out.println("gitpull");
+
+		System.out.println("second git user");
+
 
 	}
 	@Test
